@@ -1,3 +1,3 @@
 # BenzConfig-Mobile
 
-Скачать из RuStore rustore.ru/catalog/app/com.example.benzconfig
+Скачать из RuStore www.rustore.ru/catalog/app/com.example.benzconfig
